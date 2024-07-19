@@ -9,4 +9,5 @@ o conjunto de dados por se apresentar como não-supervisionado, foi testado com:
   - KMEANS
   - DBSCAN
   - GAUSSIAN
+
 sendo DBSCAN tido como melhor modelo comprando a silhueta, cotovelo e métrica de calinski harabasz.
